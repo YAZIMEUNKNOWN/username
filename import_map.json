@@ -1,0 +1,8 @@
+{
+    "imports": {
+        
+        "unique-names-generator": "https://jspm.dev/unique-names-generator",
+        "dotenv": "https://deno.land/x/dotenv/load.ts",
+        "grammy": "https://deno.land/x/grammy@v1.8.3/mod.ts"
+    }
+  }
